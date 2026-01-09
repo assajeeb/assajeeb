@@ -43,21 +43,6 @@
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,gcp,git,githubactions,gitlab" />
 </p>
 
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-| **GitHub Activity** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=assajeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assajeeb&layout=compact&theme=tokyonight&hide_border=true" width="350"/> |
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=assajeeb&theme=tokyonight&hide_border=true" width="100%"/>
-</div>
 
 ---
 
@@ -65,5 +50,5 @@
 > *"Scalability is not just about handling more users; it's about maintaining developer velocity while ensuring system integrity."*
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=assajeeb&icon=5&color=0" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=assajeeb&label=Profile%20Views&color=00ADD8&style=flat-square" alt="visitor count" />
 </p>
