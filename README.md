@@ -68,15 +68,7 @@ I enjoy designing ERP systems, admin dashboards, and multi-tenant infrastructure
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=assajeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=assajeeb&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
 
 <div align="center">
 
