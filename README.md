@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Sajeeb Rezwan
+# ⚡ Sheikh Rezwan Hosen Sajeeb
 ### **Senior Backend Architect & Full-Stack Engineer**
 **Specializing in Scalable Go Microservices & Multi-tenant SaaS**
 
@@ -35,7 +35,7 @@
 
 ### **Frontend & Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,tailwind,figma" />
 </p>
 
 ### **DevOps & Infrastructure**
