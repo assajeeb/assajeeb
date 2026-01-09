@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-assajeeb.com-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://assajeeb.com)
 [![Gravity Compile](https://img.shields.io/badge/Startup-gravitycompile.com-00ADD8?style=flat-square&logo=rocket&logoColor=white)](https://gravitycompile.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://bd.linkedin.com/in/sheikh-rezwan-hosen-sajeeb-7a7801369))
 
 ---
 
